@@ -9,7 +9,7 @@ public class FirstPracGitbash
 			System.out.println("say good bye");
 			System.out.println(" we r inn");
 			System.out.println("say good bye");
-			System.out.println("pulling.....");
+			
 		}
 	
 }
